@@ -35,7 +35,7 @@ package
 	public class Multiplayer 
 	{
 		private const SERVER		:String   = "rtmfp://p2p.rtmfp.net/";
-		private const DEVKEY		:String   = ""; // TODO: add your Cirrus key here. You can get a key from here : http://labs.adobe.com/technologies/cirrus/
+		private const DEVKEY		:String   = "1ec3856c9012a87b8bbf6b99-9669f9adecdc"; // TODO: add your Cirrus key here. You can get a key from here : http://labs.adobe.com/technologies/cirrus/
 		private const SERV_KEY		:String = SERVER + DEVKEY;
 		
 		private const OP_ROTATION 	:String = "R";
